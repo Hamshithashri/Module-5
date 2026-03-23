@@ -33,8 +33,7 @@ To write a Python program to get the employee and doctor details and display the
 ```
 
 ### OUTPUT  
-
-(Output Screenshot)  
-
+<img width="1183" height="486" alt="image" src="https://github.com/user-attachments/assets/528e3adf-f0fe-4a05-8683-457a82837203" />
 
 ### RESULT
+Therefore, the output is the example to write a Python program to get the employee and doctor details and display them using hierarchical inheritance. Create a parent (base) class named `Details` and two child (derived) classes named `Employee` and `Doctor`.
