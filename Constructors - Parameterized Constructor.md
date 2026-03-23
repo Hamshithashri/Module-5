@@ -28,5 +28,7 @@ To write a Python code to create a class for a person with a parameterized const
 ```
 
 ### OUTPUT
+<img width="1188" height="215" alt="image" src="https://github.com/user-attachments/assets/7eb10dc6-75df-4e1d-9423-2cf1ab4b4799" />
 
 ### RESULT
+Therefore, the output is the example to write a Python code to create a class for a person with a parameterized constructor, which will take the `name` and `userid` of the person as parameters and print the `userid` of the person.
