@@ -44,5 +44,7 @@ To write a Python program to get the name, age, and ID of a person and display t
 ```
 
 ### OUTPUT
+<img width="1182" height="242" alt="image" src="https://github.com/user-attachments/assets/011e30c6-c664-4fdc-980e-f3e47c696ab3" />
 
 ### RESULT
+Therefore, the output is the example to write a Python program to get the name, age, and ID of a person and display them using multilevel inheritance.
